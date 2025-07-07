@@ -46,17 +46,17 @@ A simple Python terminal-based quiz game that tests your ability to guess common
 
 🛠 Tech Used
 
--Python 3.x
--Standard Libraries: random, time
+- Python 3.x
+- Standard Libraries: random, time
 
 ---
 
 🧠 Skills Demonstrated
 
--File handling (open, readlines)
--Dictionary & list manipulation
--Loops and conditionals
--Basic game logic design
--User input and validation
--Debugging and testing
+- File handling (open, readlines)
+- Dictionary & list manipulation
+- Loops and conditionals
+- Basic game logic design
+- User input and validation
+- Debugging and testing
    
