@@ -44,6 +44,29 @@ A simple Python terminal-based quiz game that tests your ability to guess common
 
 ---
 
+🧪 Run in Visual Studio Code
+
+1. Open the project in VS Code.
+2. Make sure the Python extension is installed.
+3. Open `Main.py`.
+4. Press `F5` to start debugging using the included `.vscode/launch.json`.
+
+---
+
+⚙️ VS Code Debugging
+
+This project includes a `.vscode/launch.json` configuration:
+
+- **Name:** Python Debug
+- **Type:** debugpy
+- **Launches:** the currently active Python file
+- **Console:** integrated terminal
+
+> This setup allows you to quickly debug any Python file in the project by opening it and pressing `F5` in VS Code.
+
+
+---
+
 🛠 Tech Used
 
 - Python 3.x
